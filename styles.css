@@ -6,3 +6,9 @@ body {
 header {
     border: solid 0.15px white;
 }
+
+section {
+    background: whitesmoke;
+    padding-bottom: 80px
+    padding-top: 80px;
+}
