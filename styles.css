@@ -4,7 +4,8 @@ body {
 }
 
 header {
-    padding-left: 750px;
+    size: 65px;
+    padding-left: 850px;
     color:whitesmoke;
     border: solid 6.5px whitesmoke;
 }
