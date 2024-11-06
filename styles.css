@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    size:60px;
+    padding-left: 80px;
     color:whitesmoke;
     border: solid 10px whitesmoke;
 }
