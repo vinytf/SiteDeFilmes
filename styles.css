@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    size:15px;
     color:whitesmoke;
     border: solid 10px whitesmoke;
 }
