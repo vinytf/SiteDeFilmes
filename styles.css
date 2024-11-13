@@ -1,13 +1,14 @@
 body {
     color:black;
     background: darkolivegreen;
+    margin: 0px;
 }
 
 header {
     size: 850px;
     padding-left: 450px;
     color:whitesmoke;
-    border-bottom: solid 4.65px whitesmoke;
+    border: solid 4.65px whitesmoke;
 }
 
 section {
