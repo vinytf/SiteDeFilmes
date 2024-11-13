@@ -7,7 +7,7 @@ header {
     size: 850px;
     padding-left: 450px;
     color:whitesmoke;
-    border: solid 6.5px whitesmoke;
+    border: solid 4.65px whitesmoke;
 }
 
 section {
@@ -15,7 +15,6 @@ section {
     padding-bottom: 80px
     padding-top: 80px;
     display: flex;
-    justify-content: left;
 
 }
 
