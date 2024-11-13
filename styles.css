@@ -6,6 +6,7 @@ body {
 
 header {
     size: 850px;
+    margin: 20px;
     padding-left: 450px;
     color:whitesmoke;
     border: solid 4.65px whitesmoke;
