@@ -1,11 +1,12 @@
 body {
     color:black;
     background: darkolivegreen;
+    margin: 0px;
 }
 
 header {
     size: 850px;
-    margin: 10.65px;
+    padding: 18.65px;
     padding-left: 50px;
     color:whitesmoke;
     border-bottom: solid 2.85px whitesmoke;
